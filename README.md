@@ -1,6 +1,6 @@
 Hello World;
 
-- 👋 \I’m @Arbaaz-Khatib! A growing developer & a newbie here...  
+- 👋 I’m @Arbaaz-Khatib! A growing developer & a newbie here...  
 - 👀 I’m interested in designing & creating impactful projects & willing to learn new things.
 - 📖 I have a bachelors degree in Information Technology from Mumbai University & I live in Mumbai, India.
 - 👷‍♂️ Currently working as a QA Testing modern websites. 
